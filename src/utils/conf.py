@@ -25,7 +25,7 @@ cfg = _C
 # Setting - see README.md for more information
 
 # Data directory
-_C.DATA_DIR = '/kaggle/working/CVPR2024-VizWiz-Challenge_final/datasets/challenge/original/5/vizwiz'
+_C.DATA_DIR = '/kaggle/working/CVPR2024-VizWiz-Challenge_final/datasets'
 
 # Weight directory
 _C.CKPT_DIR = "./ckpt/"
