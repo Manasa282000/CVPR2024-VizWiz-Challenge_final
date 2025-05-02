@@ -1,5 +1,5 @@
 CHEAKPOINT: /mnt/HDD2/for_submit/CVPR2024-VizWiz-Challenge/output/test-time-evaluation/test/trained_10.pth
-ANNOTATION_PATH: ./datasets/annotations.json
+ANNOTATION_PATH: /kaggle/working/CVPR2024-VizWiz-Challenge_final/datasets/annotations.json
 CORRUPTION:
   DATASET: challenge
 MODEL:

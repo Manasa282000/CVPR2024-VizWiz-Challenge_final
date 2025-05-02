@@ -1,6 +1,6 @@
 CORRUPTION:
   DATASET: challenge
-ANNOTATION_PATH: ./datasets/annotations.json
+ANNOTATION_PATH: /kaggle/working/CVPR2024-VizWiz-Challenge_final/datasets/annotations.json
 MODEL:
   ADAPTATION: parallel_psedo_contrast
   ARCH: convnext_clip_para
