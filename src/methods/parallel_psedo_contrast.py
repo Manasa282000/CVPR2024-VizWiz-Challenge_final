@@ -33,7 +33,7 @@ class Parallel_psedo_contrast(nn.Module):
         self.ap = ap
 
         self.model_ema = ema_model
-	self.model_ema.to(device) ##manasa
+	self.model_ema.to(device)
         self.optimizer_teacher = optimizer_teacher
 
         self.model_state, self.optimizer_state, self.model_ema_state, self.optimizer_teacher_state, self.model_anchor = \
